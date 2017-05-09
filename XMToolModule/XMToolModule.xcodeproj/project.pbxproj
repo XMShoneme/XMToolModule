@@ -449,6 +449,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 8DQR5VT4B3;
 				INFOPLIST_FILE = XMToolModule/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = shoneme.XMToolModule;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -461,6 +462,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 8DQR5VT4B3;
 				INFOPLIST_FILE = XMToolModule/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = shoneme.XMToolModule;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -536,6 +538,7 @@
 				A434A79C1EC15E1A00C0F784 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A434A79D1EC15E1A00C0F784 /* Build configuration list for PBXNativeTarget "XMToolModuleTests" */ = {
 			isa = XCConfigurationList;
@@ -544,6 +547,7 @@
 				A434A79F1EC15E1A00C0F784 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A434A7A01EC15E1A00C0F784 /* Build configuration list for PBXNativeTarget "XMToolModuleUITests" */ = {
 			isa = XCConfigurationList;
@@ -552,6 +556,7 @@
 				A434A7A21EC15E1A00C0F784 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
